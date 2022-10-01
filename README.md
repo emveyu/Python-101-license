@@ -2,7 +2,7 @@
 ### Enjoy the world of python!
 
 Let's start: 
-1. Install python with [Anaconda](https://www.anaconda.com/products/distribution)
+1. Install [Anaconda](https://www.anaconda.com/products/distribution)
 2. Set up and activate environment in Mac OS terminal 
 ```python
 conda create -c conda-forge -n env_name rdkit
