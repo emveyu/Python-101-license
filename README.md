@@ -1,2 +1,2 @@
 # Python-101-license
-This is a brief introduction of Python 101.
+Let's enjoy the world of python!
