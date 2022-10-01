@@ -2,7 +2,7 @@
 ### Enjoy the world of python!
 
 Let's start: 
-1. Download the scripts
+1. Download the Codes
 2. Install environment and package
 > test
 3. Launch jupyter notebook
