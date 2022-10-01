@@ -4,6 +4,7 @@
 Let's start: 
 1. Download the Codes
 2. Install environment and package
-> test
+```python
+```
 3. Launch jupyter notebook
 4. Start with 00_Table_of_Contents.ipynb
