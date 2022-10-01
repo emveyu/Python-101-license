@@ -19,7 +19,7 @@ conda install -c conda-forge hdbscan
 pip install notebook 
 ```
 4. Download the Codes from GitHub
-5. Launch jupyter notebook
+5. Launch jupyter notebook in Mac OS terminal
 ``` python 
 jupyter notebook
 ```
