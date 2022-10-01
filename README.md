@@ -1,5 +1,5 @@
 # Python-101-license
-### Let's enjoy the world of python!
+### Enjoy the world of python!
 
 Let's start: 
 1. Download the scripts
