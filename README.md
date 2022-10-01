@@ -2,9 +2,17 @@
 ### Enjoy the world of python!
 
 Let's start: 
-1. Download the Codes
-2. Install environment and package
+
+1. Install environment and packages step-by-step
 ```python
+conda create -c conda-forge -n env_name rdkit
+conda activate env_name
+conda install -c conda-forge seaborn
+conda install -c conda-forge umap-learn
+conda install -c conda-forge hdbscan
+conda install -c conda-forge holoviews
+pip install notebook
 ```
+2. Download the Codes 
 3. Launch jupyter notebook
 4. Start with 00_Table_of_Contents.ipynb
