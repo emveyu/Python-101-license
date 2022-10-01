@@ -3,4 +3,7 @@
 
 Let's start: 
 1. Download the scripts
-2. Start with 00_Table_of_Contents.ipynb
+2. Install environment and package
+> test
+3. Launch jupyter notebook
+4. Start with 00_Table_of_Contents.ipynb
