@@ -24,3 +24,4 @@ pip install notebook
 jupyter notebook
 ```
 7. Start with 00_Table_of_Contents.ipynb
+8. Have fun!
