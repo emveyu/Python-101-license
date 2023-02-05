@@ -1,5 +1,4 @@
 # Python-101-license
-### Enjoy the world of python!
 
 1. Install [Anaconda](https://www.anaconda.com/products/distribution)
 2. Set up and activate environment in Mac OS terminal 
